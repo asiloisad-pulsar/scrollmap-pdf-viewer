@@ -2,6 +2,9 @@
 
 Show PDF outline on the scrollbar.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [pdf-view](https://github.com/lumine-code/pdf-view) and [scrollmap](https://github.com/lumine-code/scrollmap).
+
 Deprecated: recent pdf-viewer versions include this integration directly. This package remains only as a compatibility bridge for older pdf-viewer versions and should not be used for new setups.
 
 ## Installation
